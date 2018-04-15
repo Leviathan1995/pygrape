@@ -1,4 +1,4 @@
-from pygrape.pygrape import pygrape
+from pygrape import pygrape
 import time
 
 
