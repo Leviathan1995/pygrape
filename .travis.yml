@@ -4,7 +4,7 @@ python:
     - pypy3
 
 install:
-    - pip3 install pep8
+    - pip3 install pycodestyle
     - pip3 install .
 
 script:
