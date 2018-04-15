@@ -1,6 +1,8 @@
 # pygrape
+[![Build Status](https://travis-ci.org/Leviathan1995/pygrape.svg?branch=master)](https://travis-ci.org/Leviathan1995/pygrape)
+[![PyPI version](https://badge.fury.io/py/pygrape.svg)](https://badge.fury.io/py/pygrape)
 
-Pygrape is a python library for updating terminal output in realtime
+pygrape is a python library for updating terminal output in realtime
 
 
 
