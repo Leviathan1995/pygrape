@@ -10,7 +10,7 @@ except ImportError:
 setup(
     name='pygrape',
     packages=['pygrape'],
-    version='1.0',
+    version='1.1',
     description='pygrape is a python library for updating terminal output in realtime',
     long_description=open('README.md').read(),
     author='leviathan1995',
