@@ -8,4 +8,4 @@ install:
     - pip3 install .
 
 script:
-    - "pycodestyle pygrape.py pygrape_example.py"
+    - "pycodestyle pygrape"
