@@ -30,7 +30,7 @@ def main():
 
 #### Result
 
-![gif](/Users/leviathan/PycharmProjects/pygrape/doc/HD.gif)
+![gif](https://github.com/Leviathan1995/pygrape/blob/master/doc/HD.gif)
 
 ### License
 
