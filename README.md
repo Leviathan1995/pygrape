@@ -1,5 +1,4 @@
-if __name__ == '__main__':
-main()# pygrape
+# pygrape
 [![Build Status](https://travis-ci.org/Leviathan1995/pygrape.svg?branch=master)](https://travis-ci.org/Leviathan1995/pygrape)
 [![PyPI version](https://badge.fury.io/py/pygrape.svg)](https://badge.fury.io/py/pygrape)
 
