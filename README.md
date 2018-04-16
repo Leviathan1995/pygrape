@@ -18,15 +18,18 @@ pip3 instlal pygrape
 from pygrape import pygrape
 
 def main():
+    #  Initialize the pygrape, 0.05 is the interval
     writer = pygrape(0.05)
     print("Downloading pygrape.whl (2 MB)")
     bar = "█"
     for i in range(101):
         time.sleep(0.05)
+        # It only print fifty bars.
         if i % 2 == 0:
             bar += "█"
         writer.writer(" " + str(i) + "% |" + bar + "|")
         writer.flush()
+    # Finish the printing
     writer.stop()
 ```
 
