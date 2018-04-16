@@ -9,7 +9,7 @@ pygrape is a python library for updating terminal output in realtime
 ### Usage
 
 ```python
-pip3 instlal pygrape
+pip3 install pygrape
 ```
 
 ### Example
